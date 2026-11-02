@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is customer churn?",
+    "answer": "Definition: The percentage of customers who stop using a business during a given period.\nExample: A streaming service loses 50 out of 1,000 subscribers in one month, giving a 5% churn rate.\nWhy it matters: It helps businesses measure customer losses and improve retention.\nCommon mistake: Confusing churn rate with the number of new customers."
+  },
+  {
+    "question": "Explain customer retention.",
+    "answer": "Definition: A business's ability to keep existing customers over time.\nExample: A gym offers membership rewards to encourage renewals.\nWhy it matters: Retaining customers can support stable revenue and reduce acquisition costs.\nCommon mistake: Assuming all repeat customers are loyal."
+  },
+  {
+    "question": "What does market segmentation mean?",
+    "answer": "Definition: Dividing a broad market into smaller groups with similar needs or characteristics.\nExample: A clothing company targets students and professionals with different collections.\nWhy it matters: It helps businesses tailor products and marketing to specific customers.\nCommon mistake: Assuming every customer has the same needs."
+  },
+  {
+    "question": "Define target market.",
+    "answer": "Definition: The specific group of customers a business aims to serve.\nExample: A toy company focuses on parents of young children.\nWhy it matters: It helps businesses direct marketing resources effectively.\nCommon mistake: Trying to appeal equally to everyone."
+  },
+  {
+    "question": "Can you explain a value proposition?",
+    "answer": "Definition: The main benefit a business promises to deliver to customers.\nExample: A delivery company promises reliable next-day shipping.\nWhy it matters: It explains why customers should choose a product or service.\nCommon mistake: Listing product features without explaining customer benefits."
+  },
+  {
+    "question": "What is competitive advantage?",
+    "answer": "Definition: A strength that helps a business perform better than competitors.\nExample: A retailer delivers orders faster than competing stores.\nWhy it matters: It helps a company attract customers and defend its market position.\nCommon mistake: Assuming a competitive advantage lasts forever."
+  },
+  {
+    "question": "What does brand awareness mean?",
+    "answer": "Definition: The extent to which customers recognize or remember a brand.\nExample: Shoppers recognize a company's logo on a store shelf.\nWhy it matters: It helps a brand become familiar to potential customers.\nCommon mistake: Assuming brand recognition automatically produces sales."
+  },
+  {
+    "question": "Explain brand loyalty.",
+    "answer": "Definition: A customer's preference for repeatedly choosing a particular brand.\nExample: A runner consistently buys shoes from the same company.\nWhy it matters: It can encourage repeat purchases and recommendations.\nCommon mistake: Confusing brand loyalty with brand awareness."
+  },
+  {
+    "question": "Define profit margin.",
+    "answer": "Definition: The percentage of revenue remaining as profit after relevant expenses.\nExample: A company earns $20 in net profit from $100 in sales, producing a 20% net profit margin.\nWhy it matters: It helps businesses evaluate profitability.\nCommon mistake: Confusing total revenue with profit."
+  },
+  {
+    "question": "What is business revenue?",
+    "answer": "Definition: The money a business earns from selling goods or services before deducting expenses.\nExample: A bakery earns $2,000 from selling bread in one day.\nWhy it matters: It helps measure sales activity and business growth.\nCommon mistake: Assuming revenue is the same as profit."
+  },
+  {
+    "question": "Explain fixed costs.",
+    "answer": "Definition: Expenses that remain constant within a relevant range of business activity.\nExample: A store pays $1,500 in monthly rent regardless of its sales volume.\nWhy it matters: They help businesses plan budgets and calculate break-even points.\nCommon mistake: Assuming fixed costs can never change."
+  },
+  {
+    "question": "What are variable costs?",
+    "answer": "Definition: Expenses that change with the level of production or sales.\nExample: A bakery buys more flour when it produces more bread.\nWhy it matters: They help businesses estimate production costs and pricing.\nCommon mistake: Confusing variable costs with fixed costs."
+  },
+  {
+    "question": "What is the break-even point?",
+    "answer": "Definition: The sales level where total revenue equals total costs.\nExample: A cafe covers all its costs after selling 2,000 drinks in a month.\nWhy it matters: It shows the minimum sales needed to avoid a loss.\nCommon mistake: Thinking break-even means earning a profit."
+  },
+  {
+    "question": "Can you define cash flow?",
+    "answer": "Definition: The movement of money into and out of a business.\nExample: A company receives customer payments and pays its suppliers.\nWhy it matters: It helps businesses manage liquidity and pay bills on time.\nCommon mistake: Assuming profitable businesses always have positive cash flow."
+  },
+  {
+    "question": "Explain return on investment.",
+    "answer": "Definition: A measure of investment gain or loss relative to its cost.\nExample: A $1,000 investment produces a $200 net gain, resulting in a 20% ROI.\nWhy it matters: It helps compare the performance of investments.\nCommon mistake: Ignoring investment costs when calculating returns."
+  },
+  {
+    "question": "What does customer acquisition cost mean?",
+    "answer": "Definition: The average cost a business incurs to gain one new customer.\nExample: A business spends $500 on customer acquisition and gains 10 customers, giving a $50 CAC.\nWhy it matters: It helps evaluate the efficiency of customer acquisition efforts.\nCommon mistake: Ignoring acquisition expenses beyond advertising."
+  },
+  {
+    "question": "Define customer lifetime value.",
+    "answer": "Definition: The estimated economic value a customer contributes throughout the business relationship.\nExample: A subscription company estimates that a customer will generate $600 in revenue over three years.\nWhy it matters: It helps guide decisions about acquisition and retention spending.\nCommon mistake: Confusing lifetime customer revenue with lifetime customer profit."
+  },
+  {
+    "question": "What is SWOT analysis?",
+    "answer": "Definition: A framework for examining strengths, weaknesses, opportunities, and threats.\nExample: A restaurant reviews its strong reputation, limited seating, delivery opportunities, and new competitors.\nWhy it matters: It helps businesses evaluate their position and plan strategies.\nCommon mistake: Confusing internal weaknesses with external threats."
+  },
+  {
+    "question": "Explain economies of scale.",
+    "answer": "Definition: Cost advantages that occur when average production costs decrease as output increases.\nExample: A factory spreads equipment costs across more units as production expands.\nWhy it matters: They can improve efficiency and price competitiveness.\nCommon mistake: Assuming larger production always lowers average costs."
+  },
+  {
+    "question": "What is a supply chain?",
+    "answer": "Definition: The network of activities and organizations involved in producing and delivering goods or services.\nExample: A clothing company sources fabric, manufactures shirts, and ships them to stores.\nWhy it matters: It affects costs, product availability, and delivery reliability.\nCommon mistake: Thinking supply chains only involve transportation."
+  },
+  {
+    "question": "Define inventory turnover.",
+    "answer": "Definition: A measure of how many times average inventory is sold during a period.\nExample: A store with $20,000 in annual cost of goods sold and $5,000 in average inventory has a turnover of four.\nWhy it matters: It helps evaluate inventory efficiency.\nCommon mistake: Assuming higher turnover is always better."
+  },
+  {
+    "question": "Explain the marketing mix.",
+    "answer": "Definition: The combination of product, price, place, and promotion decisions used in marketing.\nExample: A cafe decides its menu, prices, store location, and advertising.\nWhy it matters: It helps coordinate decisions that support marketing goals.\nCommon mistake: Thinking marketing only involves advertising."
+  },
+  {
+    "question": "What is a business model?",
+    "answer": "Definition: The way a business creates, delivers, and captures value.\nExample: A software company sells access to its platform through monthly subscriptions.\nWhy it matters: It explains how the business operates and generates revenue.\nCommon mistake: Confusing a business model with a business plan."
+  },
+  {
+    "question": "Who are business stakeholders?",
+    "answer": "Definition: People or groups that can affect or be affected by a business.\nExample: Employees, customers, suppliers, and investors are stakeholders.\nWhy it matters: Their interests can influence business decisions.\nCommon mistake: Assuming stakeholders are only shareholders."
+  }
+]
